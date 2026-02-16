@@ -1,4 +1,5 @@
-# Machine Learning-Based Identification of Blood Biomarkers that Distinguish Precachectic and Cachectic Patients with Pancreatic Ductal Adenocarcinoma
+# MoCaPS: A Machine Learning Model for Cachectic Patients Stratification Based on Blood Biomarkers
+
 
 
 Cancer-associated cachexia (CC) is a multifactorial syndrome observed in up to 80% of PDAC patients, characterized by unintentional weight loss, muscle wasting in the presence or absence of fat loss, and fatigue [1], which can lead to a reduction in quality of life and poor clinical outcomes. [2, 3].
